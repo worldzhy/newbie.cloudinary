@@ -12,6 +12,6 @@
     "CLOUDINARY_API_SECRET": ""
   },
   "dependencies": {
-    "cloudinary": "^2.4.0"
+    "cloudinary": "latest"
   }
 }
